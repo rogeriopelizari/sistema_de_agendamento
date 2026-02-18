@@ -125,4 +125,3 @@ REACT_APP_API_URL=
 3. Commit suas alterações: git commit -m "Adiciona nova funcionalidade"
 4. Push para a branch: git push origin feature/nova-funcionalidade
 5. Abra um Pull Request
->>>>>>> 83e8d4c (Estrutura inicial da app)
